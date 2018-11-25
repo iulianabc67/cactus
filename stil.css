@@ -1,0 +1,19 @@
+h1 {
+	font-family: Arial;
+}
+p {
+	font-family: Helvetica;
+}
+#wait {
+	font-family: Arial;
+}
+#center {
+	box-sizing: content-box;
+	width: 655px;
+	height: 1000px;
+	margin: auto;
+}
+img {
+	height: 400px;
+	width: 655px;
+}
